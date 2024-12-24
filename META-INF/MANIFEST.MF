@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Dash_Bashboard
+Bundle-SymbolicName: Dash_Bashboard
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-23
+Automatic-Module-Name: Dash.Bashboard
+Export-Package: Project,
+ pom
